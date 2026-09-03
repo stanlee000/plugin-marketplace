@@ -537,7 +537,7 @@
       }
     },
     "norman-finance": {
-      "sha": "8c51318b92fc91ec308e4bf3ac51c606df8941ea",
+      "sha": "79c670abc939e38068ddb5e0984dde7ec657fc81",
       "version": "1.0.0",
       "components": {
         "mcpServers": [
