@@ -288,7 +288,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/norman-finance/norman-mcp-server.git",
-        "sha": "e12a79152b496001e364d50129f190362c17724a"
+        "sha": "a1148f328525b08d357dd70d7fb2c13fd7d80893"
       },
       "homepage": "https://norman.finance",
       "keywords": ["norman finance", "norman bookkeeping", "norman mcp"],
